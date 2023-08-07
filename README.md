@@ -17,4 +17,4 @@ angularcli
 example-repo
 angular5
 angular-5
-angular-5-quickstart# RC
+angular-5-quickstart
